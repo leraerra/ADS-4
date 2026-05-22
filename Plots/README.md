@@ -1,4 +1,4 @@
-<img width="855" height="547" alt="lin" src="https://github.com/user-attachments/assets/26dc846a-20d8-4903-8abd-53cbca0b0b49" />### Здесь должны располагаться два файла
+
 
 - **lin.png**: линейные графики
 - **log.png**: логарифмические графики
